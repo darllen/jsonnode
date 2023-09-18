@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+package-lock.json
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+

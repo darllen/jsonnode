@@ -1,0 +1,48 @@
+{
+  "contatos": [
+    {
+      "nome": "Joao",
+      "email": "joao@gmail.comm",
+      "telefone": "8198292831",
+      "id": 1
+    },
+    {
+      "nome": "Daniel da Silva",
+      "email": "daniel@gmail.com",
+      "telefone": "81981031163",
+      "id": 2
+    },
+    {
+      "nome": "Antonio",
+      "email": "antonio@gmail.com",
+      "telefone": "819546573",
+      "id": 3
+    },
+    {
+      "nome": "Joao Tomáz",
+      "email": "joao@gmail.comm",
+      "telefone": "8198292831",
+      "id": 4
+    },
+    {
+      "nome": "Jamilly",
+      "email": "jamilly@gmail.com",
+      "telefone": "81987652430",
+      "id": 5
+    },
+    {
+      "nome": "Juan",
+      "email": "juanito@gmail.com",
+      "telefone": "81762539",
+      "id": 6
+    }
+  ],
+  "usuarios": [
+    {
+      "nome": "Jamilly",
+      "email": "jdac19@gmail.com",
+      "telefone": "34<3123",
+      "id": 4
+    }
+  ]
+}

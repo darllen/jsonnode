@@ -1,48 +1,55 @@
 {
-  "contatos": [
+  "usuarios": [
     {
-      "nome": "Joao",
-      "email": "joao@gmail.comm",
-      "telefone": "8198292831",
-      "id": 1
-    },
-    {
-      "nome": "Daniel da Silva",
-      "email": "daniel@gmail.com",
-      "telefone": "81981031163",
-      "id": 2
-    },
-    {
-      "nome": "Antonio",
-      "email": "antonio@gmail.com",
-      "telefone": "819546573",
-      "id": 3
-    },
-    {
-      "nome": "Joao Tomáz",
-      "email": "joao@gmail.comm",
-      "telefone": "8198292831",
-      "id": 4
-    },
-    {
+      "id": 1,
       "nome": "Jamilly",
+      "cpf": "223.456.789-45",
       "email": "jamilly@gmail.com",
-      "telefone": "81987652430",
-      "id": 5
+      "senha": "X311G34"
     },
     {
       "nome": "Juan",
-      "email": "juanito@gmail.com",
-      "telefone": "81762539",
-      "id": 6
+      "cpf": "111111111",
+      "email": "juan@gmail.com",
+      "telefone": "8197856423",
+      "senha": "1234",
+      "id": 3
+    },
+    {
+      "nome": "NIlson",
+      "cpf": "12121212",
+      "email": "njr146@gmail.com",
+      "telefone": "245788877",
+      "senha": "123456",
+      "id": 4
+    },
+    {
+      "nome": "Letícia Cardoso",
+      "cpf": "1111111111",
+      "email": "123",
+      "telefone": "15468",
+      "senha": "123",
+      "id": 5
     }
   ],
-  "usuarios": [
+  "contatos": [
     {
-      "nome": "Jamilly",
-      "email": "jdac19@gmail.com",
-      "telefone": "34<3123",
-      "id": 4
+      "id": 1,
+      "nome": "Sara",
+      "email": "sara@gmail.com",
+      "telefone": "81 97456-5421"
+    },
+    {
+      "id": 2,
+      "nome": "Matias",
+      "email": "matias@gmail.com",
+      "telefone": "81 96523-1245"
+    },
+    {
+      "nome": "daniel2",
+      "email": "daniel",
+      "telefone": "6563213578",
+      "id": 9
     }
   ]
 }
